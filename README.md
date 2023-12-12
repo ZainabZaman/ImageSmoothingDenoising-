@@ -1,4 +1,4 @@
-# ImageSmoothingDenoising-
+# ImageSmoothingDenoising
 
 This repository contains Python code for image processing tasks using Google Colab. The code includes operations like image denoising, unsharp masking, contour detection, and more.
 
